@@ -22,6 +22,7 @@
     "DownloadLinkInstall": "https://github.com/quilun/GlamImport/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/quilun/GlamImport/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/quilun/GlamImport/releases/latest/download/latest.zip",
-    "LastUpdate": 1794850076
+    "LastUpdate": 1794850076,
+    "IconUrl": "https://raw.githubusercontent.com/quilun/GlamImport/main/GlamImport/images/icon.png"
   }
 ]
