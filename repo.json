@@ -1,0 +1,27 @@
+[
+  {
+    "Author": "Quilun",
+    "Name": "GlamImport",
+    "InternalName": "GlamImport",
+    "AssemblyVersion": "0.2.0.0",
+    "Description": "Copy a glam page from ffxiv.eorzeacollection.com, paste it in, and the plugin finds the gear and dyes and applies them to your character through Glamourer, or saves them as a Glamourer design. Requires Glamourer.",
+    "Punchline": "Paste a glam from Eorzea Collection and apply it with Glamourer.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/quilun/GlamImport",
+    "Tags": [
+      "glamour",
+      "glamourer",
+      "eorzea collection",
+      "fashion"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "Changelog": "Renamed to GlamImport. Apply to Target, recent imports, Glamourer version check, \"Used by\" jobs for weapons, outlined dye boxes.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/quilun/GlamImport/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/quilun/GlamImport/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/quilun/GlamImport/releases/latest/download/latest.zip",
+    "LastUpdate": 1794850076
+  }
+]
